@@ -1,6 +1,7 @@
 # Hi, I'm Abdallah Abdalrhman 👋
-
-I'm a Computer Engineer with a growing background in Full-Stack Web Development. I enjoy building clean, practical, and user-friendly web applications, especially with ASP.NET Core and modern backend technologies.
+Check My Portfolio Please ❤️👌
+https://abd232.github.io/Portfolio/
+I'm a Computer Engineer with a growing background in Full-Stack Web Development. I enjoy building clean, practical, and user-friendly web applications, especially with ASP.NET Core And Django and modern backend technologies.
 
 ## 🚀 About Me
 - Computer Engineering graduate
@@ -9,15 +10,15 @@ I'm a Computer Engineer with a growing background in Full-Stack Web Development.
 - Always learning and working on improving both technical and professional skills
 
 ## 🛠 Tech Stack
-- **Backend:** C#, ASP.NET Core, ASP.NET MVC
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Database:** SQL Server, MySQL
-- **Tools:** Git, GitHub, Entity Framework Core
+- **Backend:** C#, ASP.NET Core, ASP.NET MVC, Django
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
+- **Database:** SQL Server, MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Entity Framework Core, OpenAI
 
 ## 📌 Featured Work
 - Smart Hospital System
-- Attendance and Time Tracking System
-- E-commerce UI Pages
+- sweet_and_sauna Ecomarce Website 
+- DailyCheckIn Smart HR system
 - Dashboard and Admin Panel Designs
 
 ## 🌱 What I'm Working On
